@@ -1,0 +1,37 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境文件夹
+venv/
+venv.bak/
+
+# 打包工具生成的文件
+dist/
+build/
+*.spec
+
+# 本项目生成的输出文件夹 (重要！)
+已处理文件/
+
+# 常见的系统或IDE配置文件
+.idea/
+.vscode/
+.DS_Store
+
+# 其他文件
+待处理文件/
+已处理文件/
+config.json
+一键作业.py
+一键实训v2.0.1.py
+一键实训v2.1.0.py
+一键实训v3.0.py
+*.ico
+*.txt
+*.xmind
+*.xlsx
+*.rar
+*.exe
