@@ -36,3 +36,4 @@ config.json
 *.xlsx
 *.rar
 *.exe
+*.bat
